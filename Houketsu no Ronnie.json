@@ -10,23 +10,63 @@
       "volume": "1",
       "last_updated": "1750245390",
       "groups": {
-        "Boku Alliance Scans": "/proxy/api/imgur/chapter/houketsu-no-ronnie-chapter-9-fKy8w0N"
+        "Boku Alliance Scans": "/proxy/api/mangadex/chapter/fd815863-2370-4cd2-9060-76a55f14092c"
       }
     },
     "2": {
-      "title": "2nb",
+      "title": "Chains Of Blood And The Unleashed Beast",
       "volume": "1",
       "last_updated": "1751476939",
       "groups": {
-        "Boku Alliance Scans": "/proxy/api/imgur/chapter/houketsu-no-ronnie-chapter-9-fKy8w0N"
+        "Boku Alliance Scans": "/proxy/api/mangadex/chapter/1c53d53b-ed22-4687-983b-f2034286a3b1"
       }
     },
     "3": {
-      "title": "3",
+      "title": "Countless Sorrows",
       "volume": "1",
       "last_updated": "1751551178",
       "groups": {
-        "Boku Alliance Scans": "/proxy/api/imgur/chapter/houketsu-no-ronnie-chapter-9-fKy8w0N"
+        "Boku Alliance Scans": "/proxy/api/mangadex/chapter/619021b9-30bc-4cec-a63e-75138bb82ff5"
+      }
+    },
+    "4": {
+      "title": "Something to Fulfill",
+      "volume": "1",
+      "last_updated": "1751555128",
+      "groups": {
+        "Boku Alliance Scans": "/proxy/api/mangadex/chapter/f9ff9374-ca1f-4b44-8cfe-e1c0732abc19"
+      }
+    },
+    "5": {
+      "title": "Gentle Way of Life",
+      "volume": "1",
+      "last_updated": "1751555152",
+      "groups": {
+        "Boku Alliance Scans": "/proxy/api/mangadex/chapter/51652d47-9ecd-437b-b0a4-d3864c95fca5"
+      }
+    },
+    "6": {
+      "title": "Fanatic Happiness",
+      "volume": "1",
+      "last_updated": "1751555175",
+      "groups": {
+        "Boku Alliance Scans": "/proxy/api/mangadex/chapter/c88411d9-8206-4243-946a-8a312bd1dafc"
+      }
+    },
+    "7": {
+      "title": "Blood Hating Vampire",
+      "volume": "1",
+      "last_updated": "1751555204",
+      "groups": {
+        "Boku Alliance Scans": "/proxy/api/mangadex/chapter/35c87696-09c2-4277-8043-b07c447f0b8d"
+      }
+    },
+    "7.5": {
+      "title": "Volume 1 Extras",
+      "volume": "1",
+      "last_updated": "1751555219",
+      "groups": {
+        "Boku Alliance Scans": "/proxy/api/mangadex/chapter/8bac85c9-1f08-443d-94b1-b69e9bf5a49f"
       }
     }
   }
