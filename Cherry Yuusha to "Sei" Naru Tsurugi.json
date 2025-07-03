@@ -85,6 +85,38 @@
         "Boku Alliance Scans": "/proxy/api/mangadex/chapter/9020dc5f-ea83-4894-aedd-ed402b7f0125"
       }
     },
+    "11": {
+      "title": "Motherhood",
+      "volume": "2",
+      "last_updated": "1751554449",
+      "groups": {
+        "Boku Alliance Scans": "/proxy/api/mangadex/chapter/492a7925-5230-4063-9b07-92dbb204617f"
+      }
+    },
+    "12": {
+      "title": "Strange Encounter",
+      "volume": "2",
+      "last_updated": "1751554472",
+      "groups": {
+        "Boku Alliance Scans": "/proxy/api/mangadex/chapter/5c104b49-d6b7-4d0c-adc0-d5d419664ff2"
+      }
+    },
+    "13": {
+      "title": "Sprout",
+      "volume": "2",
+      "last_updated": "1751554493",
+      "groups": {
+        "Boku Alliance Scans": "/proxy/api/mangadex/chapter/397b7146-6d27-4d83-b50c-87e7d121f289"
+      }
+    },
+    "14": {
+      "title": "The Usual Cherry",
+      "volume": "2",
+      "last_updated": "1751554545",
+      "groups": {
+        "Boku Alliance Scans": "/proxy/api/mangadex/chapter/32873ed6-a34c-4511-9706-7fcda908b959"
+      }
+    },
     "27": {
       "title": "Both of Us",
       "volume": "",
@@ -147,6 +179,14 @@
       "last_updated": "1751554274",
       "groups": {
         "Boku Alliance Scans": "/proxy/api/mangadex/chapter/14609074-8571-4a5f-9333-0b48a409a076"
+      }
+    },
+    "14.5": {
+      "title": "Volume 2 Extras",
+      "volume": "2",
+      "last_updated": "1751554563",
+      "groups": {
+        "Boku Alliance Scans": "/proxy/api/mangadex/chapter/aa09b0d8-512f-4788-b226-4e01344590f5"
       }
     }
   }
