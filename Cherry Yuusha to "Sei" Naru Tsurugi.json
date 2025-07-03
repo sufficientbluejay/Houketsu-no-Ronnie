@@ -45,6 +45,46 @@
         "Boku Alliance Scans": "/proxy/api/mangadex/chapter/13defc7d-58b0-4773-99e2-86bb268095b9"
       }
     },
+    "6": {
+      "title": "Saran-san",
+      "volume": "2",
+      "last_updated": "1751554291",
+      "groups": {
+        "Boku Alliance Scans": "/proxy/api/mangadex/chapter/513b38ed-ed1e-4cc2-b417-3d921e8f35b2"
+      }
+    },
+    "7": {
+      "title": "Saran-chan",
+      "volume": "2",
+      "last_updated": "1751554313",
+      "groups": {
+        "Boku Alliance Scans": "/proxy/api/mangadex/chapter/ab89b6f0-aa5a-4ed6-8b59-69a11c1ca744"
+      }
+    },
+    "8": {
+      "title": "Together",
+      "volume": "2",
+      "last_updated": "1751554334",
+      "groups": {
+        "Boku Alliance Scans": "/proxy/api/mangadex/chapter/c981f0e2-23a4-4bf0-bb61-1c9d76da653c"
+      }
+    },
+    "9": {
+      "title": "Clients",
+      "volume": "2",
+      "last_updated": "1751554351",
+      "groups": {
+        "Boku Alliance Scans": "/proxy/api/mangadex/chapter/11ab2617-d201-4f36-b036-07b2fc3512f0"
+      }
+    },
+    "10": {
+      "title": "Declaration",
+      "volume": "2",
+      "last_updated": "1751554384",
+      "groups": {
+        "Boku Alliance Scans": "/proxy/api/mangadex/chapter/9020dc5f-ea83-4894-aedd-ed402b7f0125"
+      }
+    },
     "27": {
       "title": "Both of Us",
       "volume": "",
@@ -99,6 +139,14 @@
       "last_updated": "1751552395",
       "groups": {
         "Boku Alliance Scans": "/proxy/api/imgur/chapter/rQFbyJZ"
+      }
+    },
+    "5.5": {
+      "title": "Volume 1 Extras",
+      "volume": "1",
+      "last_updated": "1751554274",
+      "groups": {
+        "Boku Alliance Scans": "/proxy/api/mangadex/chapter/14609074-8571-4a5f-9333-0b48a409a076"
       }
     }
   }
