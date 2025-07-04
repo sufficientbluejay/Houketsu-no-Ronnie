@@ -125,12 +125,28 @@
         "Boku Alliance Scans": "/proxy/api/imgchest/chapter/o24a8q9gw7l"
       }
     },
+    "16": {
+      "title": "Special Blood's Power",
+      "volume": "2",
+      "last_updated": "1751646647",
+      "groups": {
+        "Boku Alliance Scans": "https://www.imgchest.com/p/ljyqrrgdd42"
+      }
+    },
     "7.5": {
       "title": "Volume 1 Extras",
       "volume": "1",
       "last_updated": "1751555219",
       "groups": {
         "Boku Alliance Scans": "/proxy/api/mangadex/chapter/8bac85c9-1f08-443d-94b1-b69e9bf5a49f"
+      }
+    },
+    "16.5": {
+      "title": "Volume 2 Extras",
+      "volume": "2",
+      "last_updated": "1751646820",
+      "groups": {
+        "Boku Alliance Scans": "/proxy/api/imgchest/chapter/5xy282r38yl"
       }
     }
   }
