@@ -284,6 +284,14 @@
       "groups": {
         "Boku Alliance Scans": "/proxy/api/mangadex/chapter/aa09b0d8-512f-4788-b226-4e01344590f5"
       }
+    },
+    "23.5": {
+      "title": "Volume 3 Extras",
+      "volume": "3",
+      "last_updated": "1752269473",
+      "groups": {
+        "Boku Alliance Scans": "/proxy/api/imgchest/chapter/ne7bkjdnk75"
+      }
     }
   }
 }
